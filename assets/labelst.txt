@@ -1,0 +1,2 @@
+0 Tuberclosis
+1 Normal
