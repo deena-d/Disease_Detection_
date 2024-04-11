@@ -1,0 +1,2 @@
+0 Pneumonia
+1 Tuberculosis

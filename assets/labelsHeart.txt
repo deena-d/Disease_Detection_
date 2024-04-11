@@ -1,0 +1,2 @@
+0 Chronic Disease:True
+1 Chronic Disease:False

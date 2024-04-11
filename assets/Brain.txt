@@ -1,0 +1,2 @@
+0 BrainTumour
+1 Normal
