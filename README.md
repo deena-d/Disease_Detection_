@@ -1,4 +1,7 @@
-# Disease_Detection_
+
+### Disease Detection App
+
+```markdown
 # Disease Detection App
 
 This Flutter app is designed to detect various diseases using machine learning models. It provides a user-friendly interface to detect brain tumors, tuberculosis, lung cancer, and heart diseases. Additionally, it includes a chatbot feature for interacting with users.
